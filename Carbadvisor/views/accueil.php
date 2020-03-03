@@ -84,8 +84,7 @@
         du Web 2". (Licence Informatique 2 2018-2019 Groupe 3)</p>
         <p>Ce site utilise le serveur webtp de l'université, il est accessible par les liens suivants:
         <ul>
-          <li> <a href="http://webtp.fil.univ-lille1.fr/~bart/projet2-tw2/index.php">http://webtp.fil.univ-lille1.fr/~bart/projet2-tw2/index.php</a> </li>
-          <li> <a href="http://webtp.fil.univ-lille1.fr/~krol/projet2-tw2/index.php">http://webtp.fil.univ-lille1.fr/~krol/projet2-tw2/index.php</a> </li>
+          <li> <a href="http://webtp.fil.univ-lille1.fr/~bart/CarbAdvisor/index.php">http://webtp.fil.univ-lille1.fr/~bart/CarbAdvisor/index.php</a> </li>
         </ul>
       </p>
       <h4>Sources:</h4>
